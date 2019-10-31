@@ -5,6 +5,8 @@
 #### progetto Alessia nelle scuole
 
 #### laboratori di arte
+Nell'ottica del suo progetto di impatto, una nuova assunta (Irene) ha deciso di realizzare un laboratorio artistico all'interno di mondora, rivolto ad utenti del Centro Psico Sociale di Sondrio. Il progetto ha come scopo quello di abbattere lo stigma sulla salute mentale, favorire l'integrazione di chi soffre di disturbi mentali e utilizzare l'arte come mezzo di coesione ed espressione.
+Gli incontri si svolgono mensilmente, presso l'ufficio di mondora, e durano 2 ore. Per il momento abbiamo realizzato delle opere su legno e abbiamo decorato delle forme di formaggio. Obiettivo finale dell'attività sarà realizzare una mostra dove esporre le opere realizzate.
 
 #### altro?
 
