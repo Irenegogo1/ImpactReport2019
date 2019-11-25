@@ -6,6 +6,9 @@
 
 ### Laboratori di Arte
 
+Nell'ottica del suo progetto di impatto personale, Irene, una nuova assunta, ha deciso di organizzare un progetto volto all'integrazione di persone in stato di emarginazione, tramite l'utilizzo dell'arte. Il progetto prevede la realizzazione di alcune ore di laboratorio artistico utilizzando la tecnica della pittura su legno.  Il progetto coinvolge una decina di ragazzi seguiti dal Centro Psico Sociale di Sondrio e una decina di impiegati di mondora. In ogni sessione vengono realizzate alcune opere sotto il supporto di Irene, all'interno dell'ufficio di mondora. Lo scopo del progetto è da un lato combattere lo stigma e l'emarginazione legata ai disturbi mentali, dall'altro portare in azienda l'arte come espressione e sviluppo della propria parte più profonda. Scopo finale del progetto, che si articolerà in circa 7 incontri da settembre 2019 a marzo 2020, sarà organizzare una piccola mostra o serata di presentazione all'interno dell'ufficio, coinvolgendo i colleghi e sensibilizzandoli sul tema della salute mentale.
+
+
 ## Attività consolidate
 
 ### MiniCoder
